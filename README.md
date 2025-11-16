@@ -92,11 +92,6 @@ picardforge-cpp/
 ├── rk.hpp / rk.cpp        # Explicit RK1–RK5
 ├── sdirk.hpp / sdirk.cpp  # SDIRK2–4
 ├── irk.hpp / irk.cpp      # Gauss/Radau/Lobatto collocation IRK
-│
-└── examples/
-       ├── harmonic.cpp
-       ├── van_der_pol.cpp
-       └── stiff_test.cpp
 ```
 
 ---
